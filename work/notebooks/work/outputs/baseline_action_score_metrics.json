@@ -1,0 +1,12 @@
+{
+  "rows_scored": 30000,
+  "refresh_review_rows": 17,
+  "monitor_rows": 29983,
+  "top_score": 61678.0,
+  "rule": "days_since_last_update >= 180 and impressions_90d >= 500",
+  "features_used": [
+    "days_since_last_update",
+    "impressions_90d"
+  ],
+  "label_or_future_fields_used": []
+}
