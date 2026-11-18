@@ -1,0 +1,5 @@
+# Generated data: never commit (CI blocks dataset CSVs)
+data/processed/
+outputs/refresh_queue.csv
+__pycache__/
+.ipynb_checkpoints/
